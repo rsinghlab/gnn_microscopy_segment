@@ -3,8 +3,13 @@ This repository contains the source code for the publication "Memory Efficient S
 
 ## Requirements
 Pytorch = 1.9.0
+
 Pytorch Geometric = 2.0.3
+
 Numpy >= 1.21.1
+
 Scikit Image >= 0.16.2
+
 Scikit Learn
+
 GPUtils (for GPU usage metrics)
