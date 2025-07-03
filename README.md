@@ -13,3 +13,5 @@ Scikit Image >= 0.16.2
 Scikit Learn
 
 GPUtils (for GPU usage metrics)
+
+Metadata
